@@ -20,6 +20,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinw19&show_icons=true&locale=en" alt="jinw19" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinw19&" alt="jinw19" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=C&" alt="jinw19" /></p>
 
-![snake gif](https://github.com/jinw19/jinw19/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jinw19/jinw19/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jinw19/jinw19/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jinw19/jinw19/output/github-contribution-grid-snake.svg">
+</picture>
