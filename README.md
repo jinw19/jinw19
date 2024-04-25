@@ -1,4 +1,4 @@
-[![MasterHead]()
+bu[![MasterHead]()
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">19 years old student from Türkiye</h3>
 
@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinw19&show_icons=true&locale=en" alt="jinw19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinw19&" alt="jinw19" /></p>
+
+![snake gif](https://github.com/jinw19/jinw19/blob/output/github-contribution-grid-snake.gif)
