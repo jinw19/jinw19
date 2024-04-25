@@ -1,4 +1,4 @@
-<!--[![MasterHead](http:ile istediginiz fotoğrafın linkini buraya yazın)-->
+[![MasterHead](https://images.app.goo.gl/dUaVspoaQegkziwP7)
 
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">19 years old student from Türkiye</h3>
