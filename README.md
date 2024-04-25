@@ -1,4 +1,6 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vectors%2Fsoftware-banner-vectors&psig=AOvVaw0q-BPpMRRU1qlKiJ9pvrMh&ust=1714144041423000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICQzqfS3YUDFQAAAAAdAAAAABAE)
+[![MasterHead](https://i.pinimg.com/originals/02/87/d3/0287d3ba8b3330fca99f69e2001d3168.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/02/87/d3/0287d3ba8b3330fca99f69e2001d3168.gif)
+
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">19 years old student from Türkiye</h3>
 
@@ -20,10 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinw19&show_icons=true&locale=en" alt="jinw19" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=C&" alt="jinw19" /></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jinw19/jinw19/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jinw19/jinw19/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jinw19/jinw19/output/github-contribution-grid-snake.svg">
-</picture>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinw19&" alt="jinw19" /></p>
